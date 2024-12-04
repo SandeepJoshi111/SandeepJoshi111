@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Greetings ! I am Sandeep Joshi<br>Walking on a journey of endless bugs, sleepless nights, and the unparalleled joy of catering to the demands of entitled gamers as a future game developer!
+Greetings! I am Sandeep Joshi, a multifaceted software developer and 3D artist on a mission to blend technology and creativity into extraordinary experiences.
 
 
 ## 🌐 Socials:
