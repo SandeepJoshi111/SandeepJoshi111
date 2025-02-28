@@ -75,8 +75,10 @@
 
 ## 👁️ GitHub Visits
 <p align="center">
-    <a href="https://u8views.com/github/SandeepJoshi111"><img src="https://u8views.com/api/v1/github/profiles/108969653/views/day-week-month-total-count.svg"></a>
+    <img src="https://count.getloli.com/get/@SandeepJoshi111?theme=rule34" alt="SandeepJoshi111" />
 </p>
+
+
 
 
 ---
