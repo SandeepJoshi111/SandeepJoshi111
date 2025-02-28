@@ -73,6 +73,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SandeepJoshi111&theme=radical&no-frame=true&row=1&column=7"/>
 </p>
 
+## 👁️ GitHub Visits
+<p align="center">
+    <a href="https://u8views.com/github/SandeepJoshi111"><img src="https://u8views.com/api/v1/github/profiles/108969653/views/day-week-month-total-count.svg"></a>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SandeepJoshi111&color=blue)](https://github.com/SandeepJoshi111)
+
 ---
