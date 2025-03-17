@@ -60,7 +60,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepJoshi111&layout=compact&theme=radical" alt="Top Languages" width="400px"/>
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeepJoshi111&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Language" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=SandeepJoshi111&theme=dark&exclude_days=Sat" alt="GitHub Streak" width="400px"/>
