@@ -62,7 +62,10 @@
 ## 📊 GitHub Stats
 
 <table align="center">
-  <tr>
+  <tr>    
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SandeepJoshi111&show_icons=true&bg_color=00000000&theme=dracula" alt="Sandeeps's GitHub stats" width="400px"/>
+    </td>
     <td>
      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeepJoshi111&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Language" />
     </td>
