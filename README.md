@@ -1,91 +1,93 @@
-# 👋 Hi there, I'm Sandeep Joshi!
+<div align="center">
 
-🌟 Greetings! I am Sandeep Joshi, a multifaceted software developer and 3D artist on a mission to blend technology and creativity into extraordinary experiences. You can visit me at <a href="https://sandeepjoshi.vercel.app/">Personal Portfolio</a>
+# S A N D E E P   J O S H I
 
-## 📫 Connect with me
+### Software Developer · 3D Artist · Creative Technologist
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/joshi-sandip/" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/3dwork_shop/" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+**I build software, interfaces, and interactive worlds.**
 
-## 🛠️ Tech Stack & Toolkit
+<a href="https://sandeepjoshi.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/joshi-sandip/">
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/3dwork_shop/">
+  <img src="https://img.shields.io/badge/3D%20WORK-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-<table align="center">
-  <tr>
-    <th align="center">Tech Stack</th>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react" title="React" />
-      <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-      <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-      <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
-      <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
-      <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
-      <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
-      <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
-      <img src="https://skillicons.dev/icons?i=html" title="HTML" />
-      <img src="https://skillicons.dev/icons?i=css" title="CSS" />
-      <img src="https://skillicons.dev/icons?i=figma" title="Figma" />
-      <img src="https://skillicons.dev/icons?i=blender" title="Blender" />
-    </td>
-  </tr>
-  <tr>
-    <th align="center">Toolkit</th>
-    <td>
-      <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-      <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-      <img src="https://skillicons.dev/icons?i=obsidian" title="Obsidian" />
-      <img src="https://skillicons.dev/icons?i=notion" title="Notion" />
-      <img src="https://skillicons.dev/icons?i=git" title="Git" />
-      <img src="https://skillicons.dev/icons?i=vite" title="Vite" />
-      <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" />
-      <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" />
-      <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" />
-    </td>
-  </tr>
-  <tr>
-    <th align="center">Currently Learning</th>
-    <td>
-      <img src="https://skillicons.dev/icons?i=godot" title="Godot" />
-      <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
-      <img src="https://skillicons.dev/icons?i=mongo" title="MongoDB" />
-      <img src="https://skillicons.dev/icons?i=py" title="Python" />
-      <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
-    </td>
-  </tr>
-</table>
-
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>    
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SandeepJoshi111&show_icons=true&bg_color=00000000&theme=dracula" alt="Sandeeps's GitHub stats" width="400px"/>
-    </td>
-    <td>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandeepJoshi111&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Language" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=SandeepJoshi111&theme=dark&exclude_days=Sat" alt="GitHub Streak" width="400px"/>
-    </td>
-  </tr>
-</table>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SandeepJoshi111&theme=radical&no-frame=true&row=1&column=7"/>
-</p>
-
-## 👁️ GitHub Visits
-<p align="center">
-    <img src="https://count.getloli.com/get/@SandeepJoshi111?theme=rule34" alt="SandeepJoshi111" />
-</p>
-
-
-
+</div>
 
 ---
+
+## ◇ About
+
+I'm a **Software Developer from Nepal** focused on building thoughtful digital experiences with modern web technologies.
+
+My work sits between two worlds:
+
+**`SOFTWARE`** — scalable frontend applications, interfaces, architecture
+**`3D`** — modeling, environments, interactive worlds, visual experimentation
+
+I enjoy taking an idea from **concept → design → code → experience**.
+
+Currently exploring how **WebGL, React Three Fiber, and 3D design** can make the web feel more like a place than a page.
+
+---
+
+## ◇ Currently Exploring
+
+```text
+React Three Fiber
+        ↓
+      WebGL
+        ↓
+  Interactive 3D
+        ↓
+Digital Experiences
+        ↓
+  Creative Code
+```
+---
+
+## ◇ Technology
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,nextjs,nodejs,blender,figma,firebase,supabase,vercel" />
+
+<!-- <br /> -->
+
+<!-- <img src="https://skillicons.dev/icons?i=blender,figma,firebase,supabase,vercel" />  -->
+
+</p>
+
+---
+
+## ◇ Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=SandeepJoshi111&theme=github-dark-blue&hide_border=true"
+  alt="GitHub contribution streak"
+  width="495"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `CODE · CREATE · EXPLORE`
+
+*Building software and digital worlds.*
+
+<br />
+
+<a href="https://joshisandeep.com.np/">
+  <b>→ Explore my portfolio</b>
+</a>
+
+</div>
